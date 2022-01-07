@@ -1,0 +1,1 @@
+# GoF-template-method
